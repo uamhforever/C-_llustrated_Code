@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p112\p112\bin\Debug\p112.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p112\p112\bin\Debug\p112.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p112\p112\bin\Debug\p112.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p112\p112\obj\Debug\p112.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p112\p112\obj\Debug\p112.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p112\p112\obj\Debug\p112.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p112\p112\obj\Debug\p112.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p112\p112\obj\Debug\p112.pdb

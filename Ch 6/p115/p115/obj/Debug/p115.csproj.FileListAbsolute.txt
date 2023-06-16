@@ -1,0 +1,7 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p115\p115\bin\Debug\p115.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p115\p115\bin\Debug\p115.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p115\p115\bin\Debug\p115.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p115\p115\obj\Debug\p115.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p115\p115\obj\Debug\p115.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p115\p115\obj\Debug\p115.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p115\p115\obj\Debug\p115.pdb

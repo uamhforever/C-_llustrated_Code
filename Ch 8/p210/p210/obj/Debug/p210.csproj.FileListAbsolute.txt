@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 8\p210\p210\bin\Debug\p210.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 8\p210\p210\bin\Debug\p210.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 8\p210\p210\bin\Debug\p210.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 8\p210\p210\obj\Debug\p210.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 8\p210\p210\obj\Debug\p210.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 8\p210\p210\obj\Debug\p210.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 8\p210\p210\obj\Debug\p210.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 8\p210\p210\obj\Debug\p210.pdb

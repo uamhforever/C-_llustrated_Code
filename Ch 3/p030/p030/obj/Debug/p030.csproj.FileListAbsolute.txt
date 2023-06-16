@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 3\p030\p030\bin\Debug\p030.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 3\p030\p030\bin\Debug\p030.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 3\p030\p030\bin\Debug\p030.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 3\p030\p030\obj\Debug\p030.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 3\p030\p030\obj\Debug\p030.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 3\p030\p030\obj\Debug\p030.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 3\p030\p030\obj\Debug\p030.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 3\p030\p030\obj\Debug\p030.pdb

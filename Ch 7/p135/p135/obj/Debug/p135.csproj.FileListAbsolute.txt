@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p135\p135\bin\Debug\p135.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p135\p135\bin\Debug\p135.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p135\p135\bin\Debug\p135.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p135\p135\obj\Debug\p135.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p135\p135\obj\Debug\p135.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p135\p135\obj\Debug\p135.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p135\p135\obj\Debug\p135.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p135\p135\obj\Debug\p135.pdb

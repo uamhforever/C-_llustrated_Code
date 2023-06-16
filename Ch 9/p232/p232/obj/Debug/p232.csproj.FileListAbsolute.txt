@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p232\p232\obj\Debug\p232.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p232\p232\obj\Debug\p232.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p232\p232\obj\Debug\p232.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p232\p232\bin\Debug\p232.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p232\p232\bin\Debug\p232.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p232\p232\bin\Debug\p232.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p232\p232\obj\Debug\p232.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p232\p232\obj\Debug\p232.pdb

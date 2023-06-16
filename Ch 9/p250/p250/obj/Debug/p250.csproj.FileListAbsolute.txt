@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p250\p250\bin\Debug\p250.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p250\p250\bin\Debug\p250.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p250\p250\bin\Debug\p250.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p250\p250\obj\Debug\p250.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p250\p250\obj\Debug\p250.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p250\p250\obj\Debug\p250.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p250\p250\obj\Debug\p250.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p250\p250\obj\Debug\p250.pdb

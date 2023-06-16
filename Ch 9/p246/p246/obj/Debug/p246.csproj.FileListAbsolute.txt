@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p246\p246\bin\Debug\p246.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p246\p246\bin\Debug\p246.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p246\p246\bin\Debug\p246.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p246\p246\obj\Debug\p246.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p246\p246\obj\Debug\p246.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p246\p246\obj\Debug\p246.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p246\p246\obj\Debug\p246.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 9\p246\p246\obj\Debug\p246.pdb

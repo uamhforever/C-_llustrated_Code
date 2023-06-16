@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 10\p269\p269\bin\Debug\p269.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 10\p269\p269\bin\Debug\p269.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 10\p269\p269\bin\Debug\p269.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 10\p269\p269\obj\Debug\p269.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 10\p269\p269\obj\Debug\p269.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 10\p269\p269\obj\Debug\p269.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 10\p269\p269\obj\Debug\p269.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 10\p269\p269\obj\Debug\p269.pdb

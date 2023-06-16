@@ -1,0 +1,7 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p168\p168\bin\Debug\p168.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p168\p168\bin\Debug\p168.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p168\p168\bin\Debug\p168.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p168\p168\obj\Debug\p168.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p168\p168\obj\Debug\p168.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p168\p168\obj\Debug\p168.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p168\p168\obj\Debug\p168.pdb

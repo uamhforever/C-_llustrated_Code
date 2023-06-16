@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p151\p151\bin\Debug\p151.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p151\p151\bin\Debug\p151.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p151\p151\bin\Debug\p151.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p151\p151\obj\Debug\p151.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p151\p151\obj\Debug\p151.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p151\p151\obj\Debug\p151.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p151\p151\obj\Debug\p151.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 7\p151\p151\obj\Debug\p151.pdb

@@ -1,0 +1,7 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p126\p126\bin\Debug\p126.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p126\p126\bin\Debug\p126.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p126\p126\bin\Debug\p126.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p126\p126\obj\Debug\p126.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p126\p126\obj\Debug\p126.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p126\p126\obj\Debug\p126.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 6\p126\p126\obj\Debug\p126.pdb

@@ -1,0 +1,3 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 8\p196\p196\obj\Debug\p196.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 8\p196\p196\obj\Debug\p196.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 8\p196\p196\obj\Debug\p196.csproj.CoreCompileInputs.cache
