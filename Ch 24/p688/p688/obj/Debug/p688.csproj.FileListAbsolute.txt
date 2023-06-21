@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 24\p688\p688\bin\Debug\p688.exe.config
+E:\C#图解教程随书代码\Ch 24\p688\p688\bin\Debug\p688.exe
+E:\C#图解教程随书代码\Ch 24\p688\p688\bin\Debug\p688.pdb
+E:\C#图解教程随书代码\Ch 24\p688\p688\obj\Debug\p688.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 24\p688\p688\obj\Debug\p688.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 24\p688\p688\obj\Debug\p688.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 24\p688\p688\obj\Debug\p688.exe
+E:\C#图解教程随书代码\Ch 24\p688\p688\obj\Debug\p688.pdb

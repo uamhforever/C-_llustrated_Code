@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 17\p422\p422\bin\Debug\p422.exe.config
+E:\C#图解教程随书代码\Ch 17\p422\p422\bin\Debug\p422.exe
+E:\C#图解教程随书代码\Ch 17\p422\p422\bin\Debug\p422.pdb
+E:\C#图解教程随书代码\Ch 17\p422\p422\obj\Debug\p422.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 17\p422\p422\obj\Debug\p422.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 17\p422\p422\obj\Debug\p422.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 17\p422\p422\obj\Debug\p422.exe
+E:\C#图解教程随书代码\Ch 17\p422\p422\obj\Debug\p422.pdb

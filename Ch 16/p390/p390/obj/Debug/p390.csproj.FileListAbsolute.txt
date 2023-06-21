@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 16\p390\p390\bin\Debug\p390.exe.config
+E:\C#图解教程随书代码\Ch 16\p390\p390\bin\Debug\p390.exe
+E:\C#图解教程随书代码\Ch 16\p390\p390\bin\Debug\p390.pdb
+E:\C#图解教程随书代码\Ch 16\p390\p390\obj\Debug\p390.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 16\p390\p390\obj\Debug\p390.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 16\p390\p390\obj\Debug\p390.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 16\p390\p390\obj\Debug\p390.exe
+E:\C#图解教程随书代码\Ch 16\p390\p390\obj\Debug\p390.pdb

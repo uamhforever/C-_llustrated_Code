@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 18\p471\p471\bin\Debug\p471.exe.config
+E:\C#图解教程随书代码\Ch 18\p471\p471\bin\Debug\p471.exe
+E:\C#图解教程随书代码\Ch 18\p471\p471\bin\Debug\p471.pdb
+E:\C#图解教程随书代码\Ch 18\p471\p471\obj\Debug\p471.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 18\p471\p471\obj\Debug\p471.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 18\p471\p471\obj\Debug\p471.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 18\p471\p471\obj\Debug\p471.exe
+E:\C#图解教程随书代码\Ch 18\p471\p471\obj\Debug\p471.pdb

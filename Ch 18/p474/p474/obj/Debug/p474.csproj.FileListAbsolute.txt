@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 18\p474\p474\bin\Debug\p474.exe.config
+E:\C#图解教程随书代码\Ch 18\p474\p474\bin\Debug\p474.exe
+E:\C#图解教程随书代码\Ch 18\p474\p474\bin\Debug\p474.pdb
+E:\C#图解教程随书代码\Ch 18\p474\p474\obj\Debug\p474.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 18\p474\p474\obj\Debug\p474.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 18\p474\p474\obj\Debug\p474.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 18\p474\p474\obj\Debug\p474.exe
+E:\C#图解教程随书代码\Ch 18\p474\p474\obj\Debug\p474.pdb

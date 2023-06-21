@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 19\p486\p486\bin\Debug\p486.exe.config
+E:\C#图解教程随书代码\Ch 19\p486\p486\bin\Debug\p486.exe
+E:\C#图解教程随书代码\Ch 19\p486\p486\bin\Debug\p486.pdb
+E:\C#图解教程随书代码\Ch 19\p486\p486\obj\Debug\p486.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 19\p486\p486\obj\Debug\p486.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 19\p486\p486\obj\Debug\p486.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 19\p486\p486\obj\Debug\p486.exe
+E:\C#图解教程随书代码\Ch 19\p486\p486\obj\Debug\p486.pdb

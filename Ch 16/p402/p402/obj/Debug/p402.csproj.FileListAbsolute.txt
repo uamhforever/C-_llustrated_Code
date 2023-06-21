@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 16\p402\p402\bin\Debug\p402.exe.config
+E:\C#图解教程随书代码\Ch 16\p402\p402\bin\Debug\p402.exe
+E:\C#图解教程随书代码\Ch 16\p402\p402\bin\Debug\p402.pdb
+E:\C#图解教程随书代码\Ch 16\p402\p402\obj\Debug\p402.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 16\p402\p402\obj\Debug\p402.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 16\p402\p402\obj\Debug\p402.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 16\p402\p402\obj\Debug\p402.exe
+E:\C#图解教程随书代码\Ch 16\p402\p402\obj\Debug\p402.pdb

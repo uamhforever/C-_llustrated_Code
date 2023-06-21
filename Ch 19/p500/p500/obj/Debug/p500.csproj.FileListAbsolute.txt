@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 19\p500\p500\bin\Debug\p500.exe.config
+E:\C#图解教程随书代码\Ch 19\p500\p500\bin\Debug\p500.exe
+E:\C#图解教程随书代码\Ch 19\p500\p500\bin\Debug\p500.pdb
+E:\C#图解教程随书代码\Ch 19\p500\p500\obj\Debug\p500.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 19\p500\p500\obj\Debug\p500.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 19\p500\p500\obj\Debug\p500.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 19\p500\p500\obj\Debug\p500.exe
+E:\C#图解教程随书代码\Ch 19\p500\p500\obj\Debug\p500.pdb

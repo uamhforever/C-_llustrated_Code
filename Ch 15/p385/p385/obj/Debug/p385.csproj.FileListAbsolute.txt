@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 15\p385\p385\bin\Debug\p385.exe.config
+E:\C#图解教程随书代码\Ch 15\p385\p385\bin\Debug\p385.exe
+E:\C#图解教程随书代码\Ch 15\p385\p385\bin\Debug\p385.pdb
+E:\C#图解教程随书代码\Ch 15\p385\p385\obj\Debug\p385.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 15\p385\p385\obj\Debug\p385.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 15\p385\p385\obj\Debug\p385.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 15\p385\p385\obj\Debug\p385.exe
+E:\C#图解教程随书代码\Ch 15\p385\p385\obj\Debug\p385.pdb

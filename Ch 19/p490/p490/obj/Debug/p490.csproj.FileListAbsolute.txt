@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 19\p490\p490\bin\Debug\p490.exe.config
+E:\C#图解教程随书代码\Ch 19\p490\p490\bin\Debug\p490.exe
+E:\C#图解教程随书代码\Ch 19\p490\p490\bin\Debug\p490.pdb
+E:\C#图解教程随书代码\Ch 19\p490\p490\obj\Debug\p490.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 19\p490\p490\obj\Debug\p490.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 19\p490\p490\obj\Debug\p490.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 19\p490\p490\obj\Debug\p490.exe
+E:\C#图解教程随书代码\Ch 19\p490\p490\obj\Debug\p490.pdb

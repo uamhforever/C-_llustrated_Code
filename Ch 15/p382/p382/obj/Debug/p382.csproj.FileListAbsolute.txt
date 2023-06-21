@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 15\p382\p382\bin\Debug\p382.exe.config
+E:\C#图解教程随书代码\Ch 15\p382\p382\bin\Debug\p382.exe
+E:\C#图解教程随书代码\Ch 15\p382\p382\bin\Debug\p382.pdb
+E:\C#图解教程随书代码\Ch 15\p382\p382\obj\Debug\p382.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 15\p382\p382\obj\Debug\p382.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 15\p382\p382\obj\Debug\p382.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 15\p382\p382\obj\Debug\p382.exe
+E:\C#图解教程随书代码\Ch 15\p382\p382\obj\Debug\p382.pdb

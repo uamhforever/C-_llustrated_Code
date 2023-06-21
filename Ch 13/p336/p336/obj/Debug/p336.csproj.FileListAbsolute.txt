@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 13\p336\p336\bin\Debug\p336.exe.config
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 13\p336\p336\bin\Debug\p336.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 13\p336\p336\bin\Debug\p336.pdb
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 13\p336\p336\obj\Debug\p336.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 13\p336\p336\obj\Debug\p336.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 13\p336\p336\obj\Debug\p336.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 13\p336\p336\obj\Debug\p336.exe
+E:\C#图解教程随书代码\9781484232873_Source Code\Ch 13\p336\p336\obj\Debug\p336.pdb

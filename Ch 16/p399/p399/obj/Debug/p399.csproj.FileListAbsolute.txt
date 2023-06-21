@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 16\p399\p399\bin\Debug\p399.exe.config
+E:\C#图解教程随书代码\Ch 16\p399\p399\bin\Debug\p399.exe
+E:\C#图解教程随书代码\Ch 16\p399\p399\bin\Debug\p399.pdb
+E:\C#图解教程随书代码\Ch 16\p399\p399\obj\Debug\p399.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 16\p399\p399\obj\Debug\p399.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 16\p399\p399\obj\Debug\p399.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 16\p399\p399\obj\Debug\p399.exe
+E:\C#图解教程随书代码\Ch 16\p399\p399\obj\Debug\p399.pdb

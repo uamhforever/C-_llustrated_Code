@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 19\p504\p504\bin\Debug\p504.exe.config
+E:\C#图解教程随书代码\Ch 19\p504\p504\bin\Debug\p504.exe
+E:\C#图解教程随书代码\Ch 19\p504\p504\bin\Debug\p504.pdb
+E:\C#图解教程随书代码\Ch 19\p504\p504\obj\Debug\p504.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 19\p504\p504\obj\Debug\p504.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 19\p504\p504\obj\Debug\p504.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 19\p504\p504\obj\Debug\p504.exe
+E:\C#图解教程随书代码\Ch 19\p504\p504\obj\Debug\p504.pdb

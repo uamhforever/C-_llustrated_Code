@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 17\p438\p438\bin\Debug\p438.exe.config
+E:\C#图解教程随书代码\Ch 17\p438\p438\bin\Debug\p438.exe
+E:\C#图解教程随书代码\Ch 17\p438\p438\bin\Debug\p438.pdb
+E:\C#图解教程随书代码\Ch 17\p438\p438\obj\Debug\p438.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 17\p438\p438\obj\Debug\p438.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 17\p438\p438\obj\Debug\p438.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 17\p438\p438\obj\Debug\p438.exe
+E:\C#图解教程随书代码\Ch 17\p438\p438\obj\Debug\p438.pdb

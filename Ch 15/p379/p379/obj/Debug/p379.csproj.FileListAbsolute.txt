@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 15\p379\p379\bin\Debug\p379.exe.config
+E:\C#图解教程随书代码\Ch 15\p379\p379\bin\Debug\p379.exe
+E:\C#图解教程随书代码\Ch 15\p379\p379\bin\Debug\p379.pdb
+E:\C#图解教程随书代码\Ch 15\p379\p379\obj\Debug\p379.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 15\p379\p379\obj\Debug\p379.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 15\p379\p379\obj\Debug\p379.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 15\p379\p379\obj\Debug\p379.exe
+E:\C#图解教程随书代码\Ch 15\p379\p379\obj\Debug\p379.pdb

@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 18\p470\p470\bin\Debug\p470.exe.config
+E:\C#图解教程随书代码\Ch 18\p470\p470\bin\Debug\p470.exe
+E:\C#图解教程随书代码\Ch 18\p470\p470\bin\Debug\p470.pdb
+E:\C#图解教程随书代码\Ch 18\p470\p470\obj\Debug\p470.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 18\p470\p470\obj\Debug\p470.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 18\p470\p470\obj\Debug\p470.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 18\p470\p470\obj\Debug\p470.exe
+E:\C#图解教程随书代码\Ch 18\p470\p470\obj\Debug\p470.pdb

@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 18\p465\p465\bin\Debug\p465.exe.config
+E:\C#图解教程随书代码\Ch 18\p465\p465\bin\Debug\p465.exe
+E:\C#图解教程随书代码\Ch 18\p465\p465\bin\Debug\p465.pdb
+E:\C#图解教程随书代码\Ch 18\p465\p465\obj\Debug\p465.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 18\p465\p465\obj\Debug\p465.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 18\p465\p465\obj\Debug\p465.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 18\p465\p465\obj\Debug\p465.exe
+E:\C#图解教程随书代码\Ch 18\p465\p465\obj\Debug\p465.pdb

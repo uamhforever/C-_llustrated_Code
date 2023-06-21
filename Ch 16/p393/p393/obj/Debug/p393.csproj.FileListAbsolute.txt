@@ -1,0 +1,8 @@
+E:\C#图解教程随书代码\Ch 16\p393\p393\bin\Debug\p393.exe.config
+E:\C#图解教程随书代码\Ch 16\p393\p393\bin\Debug\p393.exe
+E:\C#图解教程随书代码\Ch 16\p393\p393\bin\Debug\p393.pdb
+E:\C#图解教程随书代码\Ch 16\p393\p393\obj\Debug\p393.csproj.AssemblyReference.cache
+E:\C#图解教程随书代码\Ch 16\p393\p393\obj\Debug\p393.csproj.SuggestedBindingRedirects.cache
+E:\C#图解教程随书代码\Ch 16\p393\p393\obj\Debug\p393.csproj.CoreCompileInputs.cache
+E:\C#图解教程随书代码\Ch 16\p393\p393\obj\Debug\p393.exe
+E:\C#图解教程随书代码\Ch 16\p393\p393\obj\Debug\p393.pdb
